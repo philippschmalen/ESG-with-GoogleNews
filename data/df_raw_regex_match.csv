@@ -1,0 +1,421 @@
+processed,raw,similarity,ticker,totalEsg
+3M,3M Company,0.3333333333333333,MMM,34.75
+Abbott Laboratories,Abbott Laboratories,1.0,ABT,29.83
+AbbVie,AbbVie Inc.,0.7058823529411765,ABBV,30.19
+Accenture,Accenture plc,0.8181818181818182,ACN,11.24
+Activision Blizzard,Activision Blizzard,1.0,ATVI,16.71
+Adobe,Adobe Inc.,0.6666666666666666,ADBE,13.59
+Advance Auto Parts,Advance Auto Parts,1.0,AAP,12.38
+AES,AES Corp,0.5454545454545454,AES,33.15
+AFLAC,AFLAC Inc,0.7142857142857143,AFL,23.62
+Agilent Technologies,Agilent Technologies Inc,0.9090909090909091,A,16.79
+Air Products & Chemicals,Air Products & Chemicals Inc,0.9230769230769231,APD,11.24
+Akamai Technologies,Akamai Technologies Inc,0.9047619047619048,AKAM,21.16
+Albemarle,Albemarle Corp,0.782608695652174,ALB,36.72
+Alexion Pharmaceuticals,Alexion Pharmaceuticals,1.0,ALXN,24.69
+Alliant Energy,Alliant Energy Corp,0.8484848484848485,LNT,36.02
+Allstate,Allstate Corp,0.7619047619047619,ALL,22.63
+Alphabet,Alphabet Inc. (Class A),0.5161290322580645,GOOGL,29.62
+Altria,Altria Group Inc,0.5454545454545454,MO,24.82
+Amazon.com,Amazon.com Inc.,0.8,AMZN,30.57
+Ameren,Ameren Corp,0.7058823529411765,AEE,40.24
+American Airlines,American Airlines Group,0.85,AAL,30.59
+American Electric Power,American Electric Power,1.0,AEP,34.92
+American Express Co,American Express Co,1.0,AXP,22.13
+American International,American International Group,0.88,AIG,32.12
+American Water Works,American Water Works Company Inc,0.7692307692307693,AWK,28.99
+Ameriprise Financial,Ameriprise Financial,1.0,AMP,27.87
+AmerisourceBergen,AmerisourceBergen Corp,0.8717948717948718,ABC,17.78
+AMETEK,AMETEK Inc.,0.7058823529411765,AME,29.46
+Amgen,Amgen Inc.,0.6666666666666666,AMGN,20.43
+Amphenol,Amphenol Corp,0.7619047619047619,APH,23.81
+Anthem,Anthem,1.0,ANTM,16.7
+Aon,Aon plc,0.6,AON,23.0
+A.O. Smith,A.O. Smith Corp,0.8,AOS,32.05
+Apache,Apache Corporation,0.5,APA,39.05
+Apartment Investment & Management,Apartment Investment & Management,1.0,AIV,18.66
+Apple,Apple Inc.,0.6666666666666666,AAPL,23.62
+Aptiv PLC,Aptiv PLC,1.0,APTV,15.01
+Archer-Daniels-Midland Co,Archer-Daniels-Midland Co,1.0,ADM,34.24
+Arista Networks,Arista Networks,1.0,ANET,19.35
+Arthur J. Gallagher &,Arthur J. Gallagher & Co.,0.9130434782608695,AJG,24.72
+Assurant,Assurant,1.0,AIZ,26.02
+AT&T,AT&T Inc.,0.6153846153846154,T,18.71
+Atmos Energy,Atmos Energy,1.0,ATO,35.63
+Automatic Data Processing,Automatic Data Processing,1.0,ADP,12.4
+AutoZone,AutoZone Inc,0.8,AZO,11.99
+AvalonBay Communities,AvalonBay Communities,1.0,AVB,12.68
+Avery Dennison,Avery Dennison Corp,0.8484848484848485,AVY,18.26
+Ball,Ball Corp,0.6153846153846154,BLL,16.2
+Bank of America,Bank of America Corp,0.8571428571428571,BAC,27.32
+The Bank of New York Mellon,The Bank of New York Mellon,1.0,BK,21.49
+Baxter International,Baxter International Inc.,0.8888888888888888,BAX,27.97
+Becton Dickinson,Becton Dickinson,1.0,BDX,31.74
+Best Buy,Best Buy Co. Inc.,0.64,BBY,11.85
+Bio-Rad Laboratories,Bio-Rad Laboratories,1.0,BIO,21.56
+Biogen,Biogen Inc.,0.7058823529411765,BIIB,23.43
+BlackRock,BlackRock,1.0,BLK,23.19
+Boeing,Boeing Company,0.6,BA,38.98
+Booking,Booking Holdings Inc,0.5185185185185185,BKNG,19.45
+BorgWarner,BorgWarner,1.0,BWA,23.99
+Boston Properties,Boston Properties,1.0,BXP,14.35
+Boston Scientific,Boston Scientific,1.0,BSX,30.79
+Bristol-Myers Squibb,Bristol-Myers Squibb,1.0,BMY,28.19
+Broadcom,Broadcom Inc.,0.7619047619047619,AVGO,26.32
+Broadridge Financial Solutions,Broadridge Financial Solutions,1.0,BR,19.34
+C. H. Robinson,C. H. Robinson Worldwide,0.7368421052631579,CHRW,25.96
+Cabot Oil & Gas,Cabot Oil & Gas,1.0,COG,49.96
+Campbell Soup,Campbell Soup,1.0,CPB,22.0
+Capital One Financial,Capital One Financial,1.0,COF,26.55
+Cardinal Health,Cardinal Health Inc.,0.8571428571428571,CAH,15.64
+Carmax,Carmax Inc,0.75,KMX,13.5
+Carnival,Carnival Corp.,0.7272727272727273,CCL,21.72
+Caterpillar,Caterpillar Inc.,0.8148148148148148,CAT,37.02
+Cboe Global Markets,Cboe Global Markets,1.0,CBOE,21.69
+CBRE,CBRE Group,0.5714285714285714,CBRE,8.64
+Celanese,Celanese,1.0,CE,29.85
+Centene,Centene Corporation,0.5384615384615384,CNC,28.69
+CenterPoint Energy,CenterPoint Energy,1.0,CNP,31.55
+CenturyLink,CenturyLink Inc,0.8461538461538461,CTL,25.48
+Cerner,Cerner,1.0,CERN,20.1
+CF Industries,CF Industries Holdings Inc,0.6666666666666666,CF,47.74
+Charles Schwab,Charles Schwab Corporation,0.7,SCHW,26.89
+Charter Communications,Charter Communications,1.0,CHTR,20.0
+Chevron,Chevron Corp.,0.7,CVX,40.22
+Chipotle Mexican Grill,Chipotle Mexican Grill,1.0,CMG,24.74
+Chubb Limited,Chubb Limited,1.0,CB,24.82
+Church & Dwight,Church & Dwight,1.0,CHD,25.23
+Cincinnati Financial,Cincinnati Financial,1.0,CINF,26.16
+Cintas,Cintas Corporation,0.5,CTAS,25.35
+Cisco Systems,Cisco Systems,1.0,CSCO,12.08
+Citigroup,Citigroup Inc.,0.782608695652174,C,28.59
+Citizens Financial,Citizens Financial Group,0.8571428571428571,CFG,27.92
+Citrix Systems,Citrix Systems,1.0,CTXS,18.09
+The Clorox,The Clorox Company,0.7142857142857143,CLX,23.5
+CMS Energy,CMS Energy,1.0,CMS,27.97
+Coca-Cola,Coca-Cola Company,0.6923076923076923,KO,26.23
+Cognizant Technology Solutions,Cognizant Technology Solutions,1.0,CTSH,21.67
+Colgate-Palmolive,Colgate-Palmolive,1.0,CL,21.82
+Comcast,Comcast Corp.,0.7,CMCSA,19.65
+Comerica,Comerica Inc.,0.7619047619047619,CMA,26.63
+Conagra Brands,Conagra Brands,1.0,CAG,32.85
+Concho Resources,Concho Resources,1.0,CXO,51.7
+ConocoPhillips,ConocoPhillips,1.0,COP,29.06
+Consolidated Edison,Consolidated Edison,1.0,ED,26.96
+Constellation Brands,Constellation Brands,1.0,STZ,24.15
+The Cooper Companies,The Cooper Companies,1.0,COO,22.13
+Copart,Copart Inc,0.75,CPRT,23.41
+Corning,Corning Inc.,0.7368421052631579,GLW,19.52
+Costco Wholesale,Costco Wholesale Corp.,0.8421052631578947,COST,22.84
+"Coty,","Coty, Inc",0.7142857142857143,COTY,31.53
+Crown Castle International,Crown Castle International Corp.,0.896551724137931,CCI,20.26
+CSX,CSX Corp.,0.5,CSX,22.57
+Cummins,Cummins Inc.,0.7368421052631579,CMI,19.1
+CVS Health,CVS Health,1.0,CVS,20.7
+D. R. Horton,D. R. Horton,1.0,DHI,21.07
+Danaher,Danaher Corp.,0.7,DHR,32.72
+Darden Restaurants,Darden Restaurants,1.0,DRI,22.18
+DaVita,DaVita Inc.,0.7058823529411765,DVA,20.66
+Deere &,Deere & Co.,0.7777777777777778,DE,17.77
+Delta Air Lines,Delta Air Lines Inc.,0.8571428571428571,DAL,23.82
+Dentsply Sirona,Dentsply Sirona,1.0,XRAY,20.48
+Devon Energy,Devon Energy,1.0,DVN,33.25
+DexCom,DexCom,1.0,DXCM,27.15
+Digital Realty Trust,Digital Realty Trust Inc,0.9090909090909091,DLR,14.42
+Discover Financial Services,Discover Financial Services,1.0,DFS,23.54
+"Discovery,","Discovery, Inc. (Class A)",0.5714285714285714,DISCA,18.14
+Dish Network,Dish Network,1.0,DISH,21.65
+Dollar General,Dollar General,1.0,DG,17.01
+Dollar Tree,Dollar Tree,1.0,DLTR,19.52
+Dominion Energy,Dominion Energy,1.0,D,32.25
+Domino's Pizza,Domino's Pizza,1.0,DPZ,26.68
+Dover,Dover Corporation,0.45454545454545453,DOV,33.05
+DTE Energy,DTE Energy Co.,0.8333333333333334,DTE,30.89
+Duke Energy,Duke Energy,1.0,DUK,33.26
+DuPont de Nemours,DuPont de Nemours Inc,0.8947368421052632,DD,33.01
+DXC Technology,DXC Technology,1.0,DXC,15.32
+Eastman Chemical,Eastman Chemical,1.0,EMN,24.76
+Eaton,Eaton Corporation,0.45454545454545453,ETN,16.87
+eBay,eBay Inc.,0.6153846153846154,EBAY,21.42
+Ecolab,Ecolab Inc.,0.7058823529411765,ECL,30.54
+Edison,Edison Int'l,0.6666666666666666,EIX,28.85
+Edwards Lifesciences,Edwards Lifesciences,1.0,EW,19.65
+Electronic Arts,Electronic Arts,1.0,EA,12.44
+Emerson Electric,Emerson Electric Company,0.8,EMR,30.82
+Entergy,Entergy Corp.,0.7,ETR,34.89
+EOG Resources,EOG Resources,1.0,EOG,46.76
+Equifax,Equifax Inc.,0.7368421052631579,EFX,28.24
+Equity Residential,Equity Residential,1.0,EQR,15.84
+"Essex Property Trust,","Essex Property Trust, Inc.",0.8936170212765957,ESS,15.9
+Estée Lauder Companies,Estée Lauder Companies,1.0,EL,25.34
+Eversource Energy,Eversource Energy,1.0,ES,22.83
+Everest Re,Everest Re Group Ltd.,0.6451612903225806,RE,28.05
+Exelon,Exelon Corp.,0.6666666666666666,EXC,24.29
+Expedia,Expedia Group,0.7,EXPE,23.41
+Extra Space Storage,Extra Space Storage,1.0,EXR,15.74
+Exxon Mobil,Exxon Mobil Corp.,0.7857142857142857,XOM,32.23
+"Facebook,","Facebook, Inc.",0.782608695652174,FB,31.37
+Fastenal Co,Fastenal Co,1.0,FAST,22.53
+Federal Realty Investment Trust,Federal Realty Investment Trust,1.0,FRT,16.1
+FedEx,FedEx Corporation,0.45454545454545453,FDX,21.47
+Fidelity National Information Services,Fidelity National Information Services,1.0,FIS,18.68
+Fifth Third Bancorp,Fifth Third Bancorp,1.0,FITB,25.88
+FirstEnergy,FirstEnergy Corp,0.8148148148148148,FE,37.93
+First Republic Bank,First Republic Bank,1.0,FRC,24.54
+Fiserv,Fiserv Inc,0.75,FISV,19.49
+FleetCor Technologies,FleetCor Technologies Inc,0.9130434782608695,FLT,19.59
+Flowserve,Flowserve Corporation,0.6,FLS,38.09
+FMC,FMC Corporation,0.3333333333333333,FMC,38.89
+Ford Motor,Ford Motor Company,0.7142857142857143,F,30.0
+Fortinet,Fortinet,1.0,FTNT,21.39
+Fortive,Fortive Corp,0.7368421052631579,FTV,30.94
+Franklin Resources,Franklin Resources,1.0,BEN,20.0
+Freeport-McMoRan,Freeport-McMoRan Inc.,0.8648648648648649,FCX,41.82
+Gap,Gap Inc.,0.5454545454545454,GPS,13.35
+Garmin,Garmin Ltd.,0.7058823529411765,GRMN,20.69
+Gartner,Gartner Inc,0.7777777777777778,IT,28.86
+General Dynamics,General Dynamics,1.0,GD,37.37
+General Electric,General Electric,1.0,GE,45.84
+General Mills,General Mills,1.0,GIS,24.84
+General Motors,General Motors,1.0,GM,31.25
+Genuine Parts,Genuine Parts,1.0,GPC,12.97
+Gilead Sciences,Gilead Sciences,1.0,GILD,22.45
+Globe Life,Globe Life Inc.,0.8,GL,26.51
+Global Payments,Global Payments Inc.,0.8571428571428571,GPN,22.2
+Goldman Sachs,Goldman Sachs Group,0.8125,GS,31.06
+Grainger (W.W.),Grainger (W.W.) Inc.,0.8571428571428571,GWW,13.02
+Halliburton,Halliburton Co.,0.8461538461538461,HAL,26.51
+Hanesbrands,Hanesbrands Inc,0.8461538461538461,HBI,13.93
+Hartford Financial Svc.Gp.,Hartford Financial Svc.Gp.,1.0,HIG,20.55
+Hasbro,Hasbro Inc.,0.7058823529411765,HAS,12.56
+HCA Healthcare,HCA Healthcare,1.0,HCA,26.58
+Healthpeak Properties,Healthpeak Properties,1.0,PEAK,10.5
+Henry Schein,Henry Schein,1.0,HSIC,14.88
+The Hershey,The Hershey Company,0.7333333333333333,HSY,25.27
+Hess,Hess Corporation,0.4,HES,29.38
+Hewlett Packard,Hewlett Packard Enterprise,0.7317073170731707,HPE,17.35
+Hilton,Hilton Worldwide Holdings Inc,0.34285714285714286,HLT,20.51
+HollyFrontier,HollyFrontier Corp,0.8387096774193549,HFC,36.64
+Hologic,Hologic,1.0,HOLX,30.58
+Home Depot,Home Depot,1.0,HD,13.44
+Honeywell,Honeywell Int'l Inc.,0.6206896551724138,HON,33.42
+Hormel Foods,Hormel Foods Corp.,0.8,HRL,24.45
+HP,HP Inc.,0.4444444444444444,HPQ,11.7
+Humana,Humana Inc.,0.7058823529411765,HUM,22.89
+Huntington Bancshares,Huntington Bancshares,1.0,HBAN,22.66
+IDEX,IDEX Corporation,0.4,IEX,33.72
+IHS Markit,IHS Markit Ltd.,0.8,INFO,24.1
+Illinois Tool Works,Illinois Tool Works,1.0,ITW,20.65
+Illumina,Illumina Inc,0.8,ILMN,11.16
+Incyte,Incyte,1.0,INCY,27.73
+Ingersoll Rand,Ingersoll Rand,1.0,IR,20.68
+Intel,Intel Corp.,0.625,INTC,15.49
+Intercontinental Exchange,Intercontinental Exchange,1.0,ICE,15.97
+International Business Machines,International Business Machines,1.0,IBM,17.58
+International Paper,International Paper,1.0,IP,25.68
+Interpublic,Interpublic Group,0.7857142857142857,IPG,15.9
+International Flavors & Fragrances,International Flavors & Fragrances,1.0,IFF,24.84
+Intuit,Intuit Inc.,0.7058823529411765,INTU,18.05
+Intuitive Surgical,Intuitive Surgical Inc.,0.8780487804878049,ISRG,30.13
+Invesco,Invesco Ltd.,0.7368421052631579,IVZ,26.35
+IQVIA,IQVIA Holdings Inc.,0.4166666666666667,IQV,24.28
+Iron Mountainorporated,Iron Mountain Incorporated,0.9166666666666666,IRM,15.6
+Jacobs Engineering,Jacobs Engineering Group,0.8571428571428571,J,34.15
+J. B. Hunt Transport Services,J. B. Hunt Transport Services,1.0,JBHT,21.05
+JM Smucker,JM Smucker,1.0,SJM,27.19
+Johnson & Johnson,Johnson & Johnson,1.0,JNJ,32.78
+Johnson Controls International,Johnson Controls International,1.0,JCI,17.58
+JPMorgan Chase &,JPMorgan Chase & Co.,0.8888888888888888,JPM,22.12
+Juniper Networks,Juniper Networks,1.0,JNPR,15.75
+Kansas City Southern,Kansas City Southern,1.0,KSU,22.5
+Kellogg,Kellogg Co.,0.7777777777777778,K,25.56
+Key,KeyCorp,0.6,KEY,24.91
+Keysight Technologies,Keysight Technologies,1.0,KEYS,9.75
+Kimberly-Clark,Kimberly-Clark,1.0,KMB,22.21
+Kinder Morgan,Kinder Morgan,1.0,KMI,23.8
+Kohl's,Kohl's Corp.,0.6666666666666666,KSS,15.89
+Kraft Heinz Co,Kraft Heinz Co,1.0,KHC,32.46
+Kroger,Kroger Co.,0.75,KR,20.35
+L Brands,L Brands Inc.,0.7619047619047619,LB,16.52
+Laboratoryof America Holding,Laboratory Corp. of America Holding,0.8888888888888888,LH,19.11
+Las Vegas Sands,Las Vegas Sands,1.0,LVS,18.73
+Leggett & Platt,Leggett & Platt,1.0,LEG,36.06
+Leidos,Leidos Holdings,0.5714285714285714,LDOS,20.4
+Lennar,Lennar Corp.,0.6666666666666666,LEN,22.64
+Lilly (Eli) &,Lilly (Eli) & Co.,0.8666666666666667,LLY,34.34
+Lincoln National,Lincoln National,1.0,LNC,23.12
+LKQ,LKQ Corporation,0.3333333333333333,LKQ,13.95
+Lockheed Martin,Lockheed Martin Corp.,0.8333333333333334,LMT,30.57
+Loews,Loews Corp.,0.625,L,15.52
+Lowe's Cos.,Lowe's Cos.,1.0,LOW,12.59
+LyondellBasell,LyondellBasell,1.0,LYB,26.18
+M&T Bank,M&T Bank Corp.,0.7272727272727273,MTB,27.53
+Marathon Oil,Marathon Oil Corp.,0.8,MRO,43.09
+Marathon Petroleum,Marathon Petroleum,1.0,MPC,28.13
+Marriott,Marriott Int'l.,0.6956521739130435,MAR,25.52
+Marsh & McLennan,Marsh & McLennan,1.0,MMC,19.23
+Martin Marietta Materials,Martin Marietta Materials,1.0,MLM,32.47
+Masco,Masco Corp.,0.625,MAS,19.79
+Mastercard,Mastercard Inc.,0.8,MA,16.6
+McCormick &,McCormick & Co.,0.8461538461538461,MKC,30.7
+McDonald's,McDonald's Corp.,0.7692307692307693,MCD,24.7
+McKesson,McKesson Corp.,0.7272727272727273,MCK,19.98
+Medtronic,Medtronic plc,0.8181818181818182,MDT,25.93
+Merck &,Merck & Co.,0.7777777777777778,MRK,26.82
+MetLife,MetLife Inc.,0.7368421052631579,MET,23.47
+Mettler Toledo,Mettler Toledo,1.0,MTD,11.3
+MGM Resorts International,MGM Resorts International,1.0,MGM,25.31
+Microchip Technology,Microchip Technology,1.0,MCHP,34.03
+Micron Technology,Micron Technology,1.0,MU,33.97
+Microsoft,Microsoft Corp.,0.75,MSFT,14.91
+Mid-America Apartments,Mid-America Apartments,1.0,MAA,18.77
+Mohawk Industries,Mohawk Industries,1.0,MHK,15.05
+Molson Coors Beverage,Molson Coors Beverage Company,0.84,TAP,18.38
+Mondelez International,Mondelez International,1.0,MDLZ,26.45
+Monster Beverage,Monster Beverage,1.0,MNST,33.24
+Moody's,Moody's Corp,0.7368421052631579,MCO,12.34
+Morgan Stanley,Morgan Stanley,1.0,MS,23.03
+The Mosaic,The Mosaic Company,0.7142857142857143,MOS,34.64
+Motorola Solutions,Motorola Solutions Inc.,0.8780487804878049,MSI,14.93
+MSCI,MSCI Inc,0.6666666666666666,MSCI,23.28
+Mylan N.V.,Mylan N.V.,1.0,MYL,36.73
+"Nasdaq,","Nasdaq, Inc.",0.7368421052631579,NDAQ,17.14
+National Oilwell Varco,National Oilwell Varco Inc.,0.8979591836734694,NOV,34.7
+Netflix,Netflix Inc.,0.7368421052631579,NFLX,17.94
+Newell Brands,Newell Brands,1.0,NWL,15.37
+Newmont,Newmont Corporation,0.5384615384615384,NEM,22.67
+News,News Corp. Class A,0.36363636363636365,NWSA,14.62
+NextEra Energy,NextEra Energy,1.0,NEE,29.79
+Nielsen,Nielsen Holdings,0.6086956521739131,NLSN,22.81
+"Nike,","Nike, Inc.",0.6666666666666666,NKE,16.78
+NiSource,NiSource Inc.,0.7619047619047619,NI,32.28
+Noble Energy,Noble Energy Inc,0.8571428571428571,NBL,37.26
+Norfolk Southern,Norfolk Southern Corp.,0.8421052631578947,NSC,24.24
+Northern Trust,Northern Trust Corp.,0.8235294117647058,NTRS,25.36
+Northrop Grumman,Northrop Grumman,1.0,NOC,31.14
+NortonLifeLock,NortonLifeLock,1.0,NLOK,17.15
+Norwegian Cruise Line,Norwegian Cruise Line Holdings,0.8235294117647058,NCLH,27.45
+NRG Energy,NRG Energy,1.0,NRG,40.67
+Nucor,Nucor Corp.,0.625,NUE,37.86
+Nvidia,Nvidia Corporation,0.5,NVDA,12.92
+"NVR,","NVR, Inc.",0.6153846153846154,NVR,19.81
+Occidental Petroleum,Occidental Petroleum,1.0,OXY,42.47
+Omnicom,Omnicom Group,0.7,OMC,18.03
+ONEOK,ONEOK,1.0,OKE,26.74
+Oracle,Oracle Corp.,0.6666666666666666,ORCL,18.12
+PACCAR,PACCAR Inc.,0.7058823529411765,PCAR,34.94
+Packagingof America,Packaging Corporation of America,0.7450980392156863,PKG,19.64
+Parker-Hannifin,Parker-Hannifin,1.0,PH,29.58
+PayPal,PayPal,1.0,PYPL,17.95
+Pentair,Pentair plc,0.7777777777777778,PNR,33.04
+People's United Financial,People's United Financial,1.0,PBCT,24.52
+PepsiCo,PepsiCo Inc.,0.7368421052631579,PEP,22.17
+PerkinElmer,PerkinElmer,1.0,PKI,20.63
+Perrigo,Perrigo,1.0,PRGO,40.96
+Pfizer,Pfizer Inc.,0.7058823529411765,PFE,29.65
+Philip Morris International,Philip Morris International,1.0,PM,29.6
+Phillips 66,Phillips 66,1.0,PSX,29.77
+Pinnacle West Capital,Pinnacle West Capital,1.0,PNW,28.32
+Pioneer Natural Resources,Pioneer Natural Resources,1.0,PXD,45.26
+PNC Financial Services,PNC Financial Services,1.0,PNC,20.16
+PPG Industries,PPG Industries,1.0,PPG,27.1
+PPL,PPL Corp.,0.5,PPL,35.15
+Principal Financial,Principal Financial Group,0.8636363636363636,PFG,22.43
+Procter & Gamble,Procter & Gamble,1.0,PG,25.68
+Progressive,Progressive Corp.,0.7857142857142857,PGR,25.06
+Prologis,Prologis,1.0,PLD,10.28
+Prudential Financial,Prudential Financial,1.0,PRU,20.58
+Public Service(PSEG),Public Service Enterprise Group (PSEG),0.6896551724137931,PEG,29.18
+Public Storage,Public Storage,1.0,PSA,18.44
+Pulte,PulteGroup,0.6666666666666666,PHM,21.57
+PVH,PVH Corp.,0.5,PVH,13.94
+Quanta Services,Quanta Services Inc.,0.8571428571428571,PWR,37.38
+QUALCOMM,QUALCOMM Inc.,0.7619047619047619,QCOM,19.28
+Quest Diagnostics,Quest Diagnostics,1.0,DGX,18.7
+Ralph Lauren,Ralph Lauren Corporation,0.6666666666666666,RL,13.55
+Raymond James Financial,Raymond James Financial Inc.,0.9019607843137255,RJF,28.01
+Raytheon Technologies,Raytheon Technologies,1.0,RTX,29.17
+Realtyome,Realty Income Corporation,0.5294117647058824,O,18.51
+Regeneron Pharmaceuticals,Regeneron Pharmaceuticals,1.0,REGN,21.81
+Regions Financial,Regions Financial Corp.,0.85,RF,19.63
+Republic Services,Republic Services Inc,0.8947368421052632,RSG,23.73
+ResMed,ResMed,1.0,RMD,27.53
+Robert Half International,Robert Half International,1.0,RHI,11.45
+Rockwell Automation,Rockwell Automation Inc.,0.8837209302325582,ROK,22.09
+Ross Stores,Ross Stores,1.0,ROST,15.94
+Royal Caribbean,Royal Caribbean Group,0.8333333333333334,RCL,22.45
+"S&P Global,","S&P Global, Inc.",0.8148148148148148,SPGI,13.43
+Salesforce.com,Salesforce.com,1.0,CRM,11.22
+Schlumberger,Schlumberger Ltd.,0.8275862068965517,SLB,24.36
+Seagate Technology,Seagate Technology,1.0,STX,15.24
+Sealed Air,Sealed Air,1.0,SEE,20.46
+Sempra Energy,Sempra Energy,1.0,SRE,29.94
+Sherwin-Williams,Sherwin-Williams,1.0,SHW,29.56
+Simon Property,Simon Property Group Inc,0.7368421052631579,SPG,14.46
+SL Green Realty,SL Green Realty,1.0,SLG,15.01
+Snap-on,Snap-on,1.0,SNA,33.16
+Southern,Southern Company,0.6666666666666666,SO,32.06
+Southwest Airlines,Southwest Airlines,1.0,LUV,31.92
+Stanley Black & Decker,Stanley Black & Decker,1.0,SWK,32.34
+Starbucks,Starbucks Corp.,0.75,SBUX,21.08
+State Street,State Street Corp.,0.8,STT,22.05
+Stryker,Stryker Corp.,0.7,SYK,36.82
+Synchrony Financial,Synchrony Financial,1.0,SYF,20.84
+Sysco,Sysco Corp.,0.625,SYY,13.05
+T-Mobile US,T-Mobile US,1.0,TMUS,26.95
+T. Rowe Price,T. Rowe Price Group,0.8125,TROW,23.38
+"Tapestry,","Tapestry, Inc.",0.782608695652174,TPR,14.55
+Target,Target Corp.,0.6666666666666666,TGT,15.35
+TE Connectivity,TE Connectivity Ltd.,0.8571428571428571,TEL,9.13
+Teleflex,Teleflex,1.0,TFX,28.94
+Texas Instruments,Texas Instruments,1.0,TXN,17.46
+Textron,Textron Inc.,0.7368421052631579,TXT,37.78
+Thermo Fisher Scientific,Thermo Fisher Scientific,1.0,TMO,18.16
+Tiffany &,Tiffany & Co.,0.8181818181818182,TIF,15.85
+TJX Companies,TJX Companies Inc.,0.8387096774193549,TJX,14.54
+Tractor Supply,Tractor Supply Company,0.7777777777777778,TSCO,15.66
+Trane Technologies,Trane Technologies plc,0.9,TT,20.24
+TransDigm,TransDigm Group,0.75,TDG,40.9
+The Travelers Companies,The Travelers Companies Inc.,0.9019607843137255,TRV,22.22
+Truist Financial,Truist Financial,1.0,TFC,25.42
+"Twitter,","Twitter, Inc.",0.7619047619047619,TWTR,23.79
+Tyson Foods,Tyson Foods,1.0,TSN,43.73
+Ulta Beauty,Ulta Beauty,1.0,ULTA,16.61
+U.S. Bancorp,U.S. Bancorp,1.0,USB,27.04
+Under Armour,Under Armour (Class A),0.7058823529411765,UAA,16.21
+Union Pacific,Union Pacific Corp,0.8387096774193549,UNP,20.87
+United Airlines,United Airlines Holdings,0.7692307692307693,UAL,31.32
+United Health,United Health Group Inc.,0.7027027027027027,UNH,20.79
+United Parcel Service,United Parcel Service,1.0,UPS,21.34
+"United Rentals,","United Rentals, Inc.",0.8571428571428571,URI,19.28
+Universal Health Services,Universal Health Services,1.0,UHS,34.06
+Unum,Unum Group,0.5714285714285714,UNM,24.53
+VF,VF Corporation,0.25,VFC,11.6
+Valero Energy,Valero Energy,1.0,VLO,37.24
+Verisk Analytics,Verisk Analytics,1.0,VRSK,21.12
+Verizon Communications,Verizon Communications,1.0,VZ,20.22
+Vertex Pharmaceuticals,Vertex Pharmaceuticals Inc,0.9166666666666666,VRTX,25.02
+ViacomCBS,ViacomCBS,1.0,VIAC,18.9
+Visa,Visa Inc.,0.6153846153846154,V,17.34
+Vornado Realty Trust,Vornado Realty Trust,1.0,VNO,16.92
+Vulcan Materials,Vulcan Materials,1.0,VMC,33.25
+W. R. Berkley,W. R. Berkley Corporation,0.6842105263157895,WRB,27.28
+Wabtec,Wabtec Corporation,0.5,WAB,29.24
+Walmart,Walmart,1.0,WMT,28.39
+Walgreens Boots Alliance,Walgreens Boots Alliance,1.0,WBA,17.67
+The Walt Disney,The Walt Disney Company,0.7894736842105263,DIS,16.28
+Waste Management,Waste Management Inc.,0.8648648648648649,WM,14.94
+WEC Energy,WEC Energy Group,0.7692307692307693,WEC,32.62
+Wells Fargo,Wells Fargo,1.0,WFC,30.79
+Western Digital,Western Digital,1.0,WDC,13.73
+Western Union Co,Western Union Co,1.0,WU,20.8
+Weyerhaeuser,Weyerhaeuser,1.0,WY,19.04
+Whirlpool,Whirlpool Corp.,0.75,WHR,24.58
+Williams Companies,Williams Companies,1.0,WMB,23.61
+Willis Towers Watson,Willis Towers Watson,1.0,WLTW,22.29
+Wynn Resorts,Wynn Resorts Ltd,0.8571428571428571,WYNN,26.72
+Xcel Energy,Xcel Energy Inc,0.8461538461538461,XEL,29.32
+Xylem,Xylem Inc.,0.6666666666666666,XYL,18.17
+Yum! Brands,Yum! Brands Inc,0.8461538461538461,YUM,18.12
+Zimmer Biomet,Zimmer Biomet Holdings,0.7428571428571429,ZBH,34.56
+Zoetis,Zoetis,1.0,ZTS,28.08
