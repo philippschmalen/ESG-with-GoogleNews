@@ -42,6 +42,7 @@ def make_csv(x, filename, data_dir, append=False, header=False, index=False):
         x.to_csv(os.path.join(data_dir, filename), 
                                      header=header, 
                                      index=index)
+    # append to existing
     else:
         x.to_csv(os.path.join(data_dir, filename),
                                      mode = 'a',
@@ -156,6 +157,7 @@ def list_batch(lst, n=5):
 #######################################################
 ### 4. Miscellaneous
 #   date_add_year()
+# 	sleep_countdown()
 #######################################################
 
 from datetime import date
@@ -178,3 +180,21 @@ def date_add_year(d, years):
         return d.replace(year = d.year + years)
     except ValueError:
         return d + (date(d.year + years, 1, 1) - date(d.year, 1, 1))    
+
+
+import sys
+
+def sleep_countdown(duration, print_step=2):
+	"""Sleep for certain duration and print remaining time in steps of print_step
+	
+	Input
+		duration: duration of timeout (int)
+		print_step: steps to print countdown (int)
+
+	Return 
+		None
+	"""
+	for i in range(duration,0,-print_step):
+	    sleep(print_step)
+	    sys.stdout.write(str(i-print_step)+' ')
+	    sys.stdout.flush()
